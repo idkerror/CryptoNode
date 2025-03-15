@@ -50,11 +50,14 @@ nano ~/node_info.json
 ```
 ./pop --points
 ```
+```
+./pop --stats
+```
 
 ## Check Points & Status from Dashboard - https://dashboard.pipenetwork.com/node-lookup
 
 
-## 🔶For Next Day Run This Command
+## 🔶For Next Day Run This Command for WSL users
 
 #1 Open WSL and Put this Command 
 ```
